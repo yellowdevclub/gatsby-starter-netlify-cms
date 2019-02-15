@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
-    description: 'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+    title: 'yellowDEV Club',
+    description: 'yellowDEV Club. Yellow Development Club.　日々の開発やグラフィックを掲載。目的は人工知能で植物の育成。水力、風力、太陽発電。衣食住の"食"を人工知能ににて生成するまでです。',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
